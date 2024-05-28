@@ -7,7 +7,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 - 🏃 Avid marathoner (ICPC, RPC)
 - 🌌 Astronomy enthusiast
 - 🔭 Currently learning **React** for a personal project
-- 💼 Open to job opportunities: [My Resume](https://your-resume-url.com)
+- 💼 Open to job opportunities: [My Resume](https://github.com/GarcesSebastian/GarcesSebastian/blob/main/curriculum-sebxstt.pdf)
 
 ## GitHub Stats
 
