@@ -43,7 +43,7 @@ I am a passionate software developer with a love for coding and problem-solving.
     <tr>
       <td align="center">
         <a href="https://github.com/GarcesSebastian/portfolio-website">
-          <img src="https://github.com/GarcesSebastian/EasyCredit/blob/main/public/Captura%20de%20pantalla%20(204).png" alt="Portfolio Website" width="200" height="200">
+          <img src="https://github.com/GarcesSebastian/EasyCredit/blob/main/public/Captura%20de%20pantalla%20(204).png" alt="Portfolio Website" width="300" height="200">
           <br>
           <strong>Portfolio Website</strong>
         </a>
