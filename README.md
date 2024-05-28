@@ -29,7 +29,6 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Konva](https://img.shields.io/badge/Konva-FF9800?style=for-the-badge&logo=konva&logoColor=white)
 
