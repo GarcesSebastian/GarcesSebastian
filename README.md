@@ -13,6 +13,11 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 - 💼 Open to job opportunities: [My Resume](https://your-resume-url.com)
 - 🌱 Developing my portfolio: [Portfolio Placeholder](https://your-portfolio-url.com)
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastiangarces152@gmail.com)
+
 ## Skills
 
 ### Languages
@@ -106,8 +111,3 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 
 ![Sebxstt's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarcesSebastian&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarcesSebastian&layout=compact&theme=radical)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastiangarces152@gmail.com)
