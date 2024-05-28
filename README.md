@@ -11,7 +11,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 - 🌌 Astronomy enthusiast
 - 🔭 Currently learning **React** for a personal project
 - 💼 Open to job opportunities: [My Resume](https://your-resume-url.com)
-- 🌱 Developing my portfolio: [Portfolio Placeholder](https://your-portfolio-url.com)
+<!--- 🌱 Developing my portfolio: [Portfolio Placeholder](https://your-portfolio-url.com)-->
 
 ## Connect with Me
 
