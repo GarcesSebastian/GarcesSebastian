@@ -57,7 +57,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
       <td align="center">
         <a href="#">
           <!-- Aquí puedes colocar la imagen de EasyCredit -->
-          <img src="https://placehold.it/200x200" alt="EasyCredit" width="200" height="200">
+          <img src="https://github.com/GarcesSebastian/EasyCredit/blob/main/public/icons/logo.jpeg" alt="EasyCredit" width="200" height="200">
           <br>
           <strong>EasyCredit</strong>
         </a>
@@ -73,7 +73,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
       <td align="center">
         <a href="#">
           <!-- Aquí puedes colocar la imagen de Parcify -->
-          <img src="https://placehold.it/200x200" alt="Parcify" width="200" height="200">
+          <img src="https://github.com/CCFTS/Parcify/blob/PMV/public/Logo.jpg" alt="Parcify" width="200" height="200">
           <br>
           <strong>Parcify</strong>
         </a>
@@ -91,7 +91,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
       <td align="center">
         <a href="#">
           <!-- Aquí puedes colocar la imagen de HealthPilot -->
-          <img src="https://placehold.it/200x200" alt="HealthPilot" width="200" height="200">
+          <img src="https://github.com/GarcesSebastian/HealthPilot/blob/main/img/logo_small_icon_only_inverted.png" alt="HealthPilot" width="200" height="200">
           <br>
           <strong>HealthPilot</strong>
         </a>
