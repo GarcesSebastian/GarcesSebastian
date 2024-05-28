@@ -39,28 +39,49 @@ I am a passionate software developer with a love for coding and problem-solving.
 ### 📂 Featured Projects
 
 <div align="center">
-
-  <a href="https://github.com/GarcesSebastian/portfolio-website">
-    <img src="https://your-image-url.com/portfolio-website.png" alt="Portfolio Website" width="300" height="200">
-    <br>
-    <strong>Portfolio Website</strong>
-  </a>
-  <p>A personal portfolio website to showcase my work and skills. Built with HTML, CSS, and JavaScript.</p>
-  
-  <a href="https://github.com/GarcesSebastian/ecommerce-platform">
-    <img src="https://your-image-url.com/ecommerce-platform.png" alt="E-commerce Platform" width="300" height="200">
-    <br>
-    <strong>E-commerce Platform</strong>
-  </a>
-  <p>A fully functional e-commerce platform with user authentication and payment integration. Built with React and Node.js.</p>
-  
-  <a href="https://github.com/GarcesSebastian/project-three">
-    <img src="https://your-image-url.com/project-three.png" alt="Project Three" width="300" height="200">
-    <br>
-    <strong>Project Three</strong>
-  </a>
-  <p>A brief description of what Project Three is about. Built with the technologies you used.</p>
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/GarcesSebastian/portfolio-website">
+          <img src="https://your-image-url.com/portfolio-website.png" alt="Portfolio Website" width="200" height="200">
+          <br>
+          <strong>Portfolio Website</strong>
+        </a>
+        <p>📅 January 2024</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/GarcesSebastian/ecommerce-platform">
+          <img src="https://your-image-url.com/ecommerce-platform.png" alt="E-commerce Platform" width="200" height="200">
+          <br>
+          <strong>E-commerce Platform</strong>
+        </a>
+        <p>📅 March 2024</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+        </p>
+      </td>
+      <td align="center">
+        <a href="https://github.com/GarcesSebastian/project-three">
+          <img src="https://your-image-url.com/project-three.png" alt="Project Three" width="200" height="200">
+          <br>
+          <strong>Project Three</strong>
+        </a>
+        <p>📅 May 2024</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 🛠️ Other Projects
