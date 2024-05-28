@@ -36,11 +36,38 @@ I am a passionate software developer with a love for coding and problem-solving.
 
 ## Projects
 
-### [Project 1: Portfolio Website](https://github.com/GarcesSebastian/portfolio-website)
-A personal portfolio website to showcase my work and skills.
+### 📂 Featured Projects
 
-### [Project 2: E-commerce Platform](https://github.com/GarcesSebastian/ecommerce-platform)
-A fully functional e-commerce platform with user authentication and payment integration.
+<div align="center">
+
+  <a href="https://github.com/GarcesSebastian/portfolio-website">
+    <img src="https://your-image-url.com/portfolio-website.png" alt="Portfolio Website" width="300" height="200">
+    <br>
+    <strong>Portfolio Website</strong>
+  </a>
+  <p>A personal portfolio website to showcase my work and skills. Built with HTML, CSS, and JavaScript.</p>
+  
+  <a href="https://github.com/GarcesSebastian/ecommerce-platform">
+    <img src="https://your-image-url.com/ecommerce-platform.png" alt="E-commerce Platform" width="300" height="200">
+    <br>
+    <strong>E-commerce Platform</strong>
+  </a>
+  <p>A fully functional e-commerce platform with user authentication and payment integration. Built with React and Node.js.</p>
+  
+  <a href="https://github.com/GarcesSebastian/project-three">
+    <img src="https://your-image-url.com/project-three.png" alt="Project Three" width="300" height="200">
+    <br>
+    <strong>Project Three</strong>
+  </a>
+  <p>A brief description of what Project Three is about. Built with the technologies you used.</p>
+
+</div>
+
+### 🛠️ Other Projects
+
+- [Project 4: Another Cool Project](https://github.com/GarcesSebastian/project-four) - A brief description of this project.
+- [Project 5: Yet Another Project](https://github.com/GarcesSebastian/project-five) - A brief description of this project.
+- [Project 6: Interesting Project](https://github.com/GarcesSebastian/project-six) - A brief description of this project.
 
 ## GitHub Stats
 
