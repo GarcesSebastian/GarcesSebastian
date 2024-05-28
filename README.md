@@ -61,7 +61,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
           <br>
           <strong>EasyCredit</strong>
         </a>
-        <p>📅 24 de mayo del 2024</p>
+        <p>📅 May 24th, 2024</p>
         <p>
           <img src="https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white">
           <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -76,7 +76,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
           <br>
           <strong>Parcify</strong>
         </a>
-        <p>📅 En desarrollo</p>
+        <p>📅 In development</p>
         <p>
           <img src="https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white">
           <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -93,7 +93,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
           <br>
           <strong>HealthPilot</strong>
         </a>
-        <p>📅 5 de noviembre del 2023</p>
+        <p>📅 November 5th, 2023</p>
         <p>
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
