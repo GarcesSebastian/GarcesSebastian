@@ -4,10 +4,14 @@
 
 ## About Me
 
-I am a passionate web developer who loves to innovate and create useful and versatile tools. I enjoy learning and exploring new technologies. Currently, I am a student at Universidad del Sinú Elías Bechara Zainúm. I am also an avid marathoner, having participated in marathons like ICPC and RPC. Besides development, I am fascinated by astronomy. Right now, I am focusing on improving my skills and learning new technologies. For instance, I am currently diving into React for a personal project. I am open to job opportunities; you can find my resume [here](https://your-resume-url.com). My portfolio website is under development; you can view a placeholder [here](https://your-portfolio-url.com).
+I am a passionate web developer who loves to innovate and create useful tools. I enjoy learning and exploring new technologies.
 
-- 📫 How to reach me: [sebastian@example.com](mailto:sebastian@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🎓 Student at **Universidad del Sinú Elías Bechara Zainúm**
+- 🏃 Avid marathoner (ICPC, RPC)
+- 🌌 Astronomy enthusiast
+- 🔭 Currently learning **React** for a personal project
+- 💼 Open to job opportunities: [My Resume](https://your-resume-url.com)
+- 🌱 Developing my portfolio: [Portfolio Placeholder](https://your-portfolio-url.com)
 
 ## Skills
 
