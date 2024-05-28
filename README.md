@@ -1,9 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Sebastián Garcés <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-
-## About Me
-
 I am a passionate web developer who loves to innovate and create useful tools. I enjoy learning and exploring new technologies.
 
 - 🎓 Student at **Universidad del Sinú Elías Bechara Zainúm**
@@ -11,7 +8,11 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 - 🌌 Astronomy enthusiast
 - 🔭 Currently learning **React** for a personal project
 - 💼 Open to job opportunities: [My Resume](https://your-resume-url.com)
-<!--- 🌱 Developing my portfolio: [Portfolio Placeholder](https://your-portfolio-url.com)-->
+
+## GitHub Stats
+
+![Sebxstt's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarcesSebastian&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarcesSebastian&layout=compact&theme=radical)
 
 ## Connect with Me
 
@@ -55,8 +56,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
   <table>
     <tr>
       <td align="center">
-        <a href="#">
-          <!-- Aquí puedes colocar la imagen de EasyCredit -->
+        <a href="https://github.com/GarcesSebastian/EasyCredit">
           <img src="https://github.com/GarcesSebastian/EasyCredit/blob/main/public/icons/logo.jpeg" alt="EasyCredit" width="200" height="200">
           <br>
           <strong>EasyCredit</strong>
@@ -71,8 +71,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
         </p>
       </td>
       <td align="center">
-        <a href="#">
-          <!-- Aquí puedes colocar la imagen de Parcify -->
+        <a href="https://github.com/CCFTS/Parcify">
           <img src="https://github.com/CCFTS/Parcify/blob/PMV/public/Logo.jpg" alt="Parcify" width="200" height="200">
           <br>
           <strong>Parcify</strong>
@@ -89,8 +88,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
         </p>
       </td>
       <td align="center">
-        <a href="#">
-          <!-- Aquí puedes colocar la imagen de HealthPilot -->
+        <a href="https://github.com/GarcesSebastian/HealthPilot">
           <img src="https://github.com/GarcesSebastian/HealthPilot/blob/main/img/logo_small_icon_only_inverted.png" alt="HealthPilot" width="200" height="200">
           <br>
           <strong>HealthPilot</strong>
@@ -106,8 +104,3 @@ I am a passionate web developer who loves to innovate and create useful tools. I
     </tr>
   </table>
 </div>
-
-## GitHub Stats
-
-![Sebxstt's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarcesSebastian&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarcesSebastian&layout=compact&theme=radical)
