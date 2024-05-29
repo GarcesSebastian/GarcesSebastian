@@ -51,6 +51,8 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!--
+
 ## Projects
 
 ### 📂 Featured Projects
@@ -107,3 +109,5 @@ I am a passionate web developer who loves to innovate and create useful tools. I
     </tr>
   </table>
 </div>
+
+->>
