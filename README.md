@@ -9,7 +9,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 - 🎓 Student at **Universidad del Sinú Elías Bechara Zainúm**
 - 🏃 Avid marathoner (ICPC, RPC)
 - 🌌 Astronomy enthusiast
-- 🔭 Currently learning **React** for a personal project
+- 🔭 Currently learning **Laravel** for a personal project
 - 💼 Open to job opportunities: [My Resume](https://github.com/GarcesSebastian/GarcesSebastian/blob/main/curriculum-sebxstt.pdf)
 
 ## GitHub Stats
