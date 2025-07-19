@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sebastián+Garcés!;+Passionate+Web+Developer;" />
 </h1>
 
-I am a passionate web developer who loves to innovate and create useful tools. I enjoy learning and exploring new technologies.
+I am a passionate web and mobile developer who loves to innovate and create useful tools. I enjoy learning and exploring new technologies.
 
 - 🎓 Student at **Universidad del Sinú Elías Bechara Zainúm**
 - 🏃 Avid marathoner (ICPC, RPC)
@@ -35,6 +35,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -42,6 +43,7 @@ I am a passionate web developer who loves to innovate and create useful tools. I
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Konva](https://img.shields.io/badge/Konva-FF9800?style=for-the-badge&logo=konva&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
